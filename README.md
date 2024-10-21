@@ -5,13 +5,13 @@ As we say: healthy mind, healthy body. But with the stress of work, the chores a
 
 ### How to use it ?
 Simplicity is the best !  
-You just no need to acces the website : <https://project-datacamp.bubbleapps.io/> you don't any account or password to acces it. 
+You just need to access the website,for that you don't need any account or password, just click on this link <https://project-datacamp.bubbleapps.io/>
 
 After going on the home page you just need to click on the button in the middle of the screen.
 
 ![image](https://github.com/user-attachments/assets/53674d33-dd91-411a-af68-1c56a979d3b0)
 
-You will be redirected to a form, completed it (*noted that you can setup the goal to  be for a gain of mass or a diet*) and click on the button *Send your results*
+You will be redirected to a form, complete it (*noted that you can setup the goal to  be for a gain of mass or a diet*) and click on the button *Send your results*
 
 ![image](https://github.com/user-attachments/assets/58d42add-9531-4e6b-a80b-70550a09e67f)
 
