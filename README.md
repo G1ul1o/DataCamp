@@ -1,7 +1,7 @@
 # NutriJourney
 *__Members : Enzo Riviere, Marc Rougagnou,Giulio Garnier__*
 
-As we say: healthy mind, healthy body. But with the stress of work, the chores and other routines problems, do we have the energy to plan our meals for the week to have a healthy life? Not everyone. But in the age of data and technology we can use it to help us improve our organization. That is what we aim at NutriJourney Company, to help you to be a better version of you. In this report, you will learn about the final steps of our project: the full implementation of our app, the application logic, snapshots and the CO2 impact of the project.
+As we say: healthy mind, healthy body. But with the stress of work, the chores and other routines problems, do we have the energy to plan our meals for the week to have a healthy life? Not everyone. But in the age of data and technology we can use it to help us improve our organization. That is what we aim at NutriJourney Company, to help you to be a better version of you.
 
 ### How to use it ?
 Simplicity is the best !  
@@ -11,11 +11,11 @@ After going on the home page you just need to click on the button in the middle 
 
 ![image](https://github.com/user-attachments/assets/53674d33-dd91-411a-af68-1c56a979d3b0)
 
-You will be redirected to a form. You just need to completed it (*noted that you can setup the goal to  be for a gain of mass or a diet*) and click on the button *Send your results*
+You will be redirected to a form, completed it (*noted that you can setup the goal to  be for a gain of mass or a diet*) and click on the button *Send your results*
 
 ![image](https://github.com/user-attachments/assets/58d42add-9531-4e6b-a80b-70550a09e67f)
 
-After that you will have a weekly menu like follow with you results on the top of it. If the objectives are impossible you will not get a weekly menu.
+After that you will have a weekly menu (like below) with you results on the top of it. If the objectives are impossible you will not get a weekly menu.
 
 ![image](https://github.com/user-attachments/assets/5b813244-af28-45cc-a2cb-6be5c7588a93)
 
